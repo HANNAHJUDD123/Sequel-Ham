@@ -8,10 +8,24 @@ body {
 
 .twonPic {
   width: 35%;
+  margin-left: 357px;
+  
 }
 
 .burgerPic {
   width: 50%;
+  margin-left: 290px;
+}
+
+.burgers {
+  width: 70%;
+  margin-left: 183px;
+}
+
+h1 {
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+  margin-top: 58px;
 }
 
 .todo-list {
